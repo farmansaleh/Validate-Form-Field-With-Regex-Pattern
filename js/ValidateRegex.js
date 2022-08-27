@@ -3,7 +3,7 @@ with regex pattern and add class
 after that add condition for that class in validateRegex function and pass parameter 
 
  author : @Farman Saleh
- date   : July 27/2022
+ date   : August 27/2022
  github : github.com/farmansaleh
 
 **/
